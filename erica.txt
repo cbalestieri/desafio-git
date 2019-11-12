@@ -1,0 +1,2 @@
+Aprendi na última aula a criar classes e métodos abstratos.
+Fizemos dois exercícios sobre UML.
